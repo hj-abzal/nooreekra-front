@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nooreekra-front/static/css/main.b57e4139.css",
+    "main.js": "/nooreekra-front/static/js/main.d8186d53.js",
+    "static/media/marked.cjs": "/nooreekra-front/static/media/marked.0a2feaefe04db935009b.cjs",
+    "index.html": "/nooreekra-front/index.html",
+    "main.b57e4139.css.map": "/nooreekra-front/static/css/main.b57e4139.css.map",
+    "main.d8186d53.js.map": "/nooreekra-front/static/js/main.d8186d53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57e4139.css",
+    "static/js/main.d8186d53.js"
+  ]
+}
